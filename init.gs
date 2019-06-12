@@ -1,6 +1,6 @@
 function doPost(e) {
 
-  var CHANNEL_ACCESS_TOKEN = 'y6LBW+XTcr9AW0grhzP5pA4lz/XrtTYGk9lIKqLNS6Xbn5wm1KK3cpsCGMmb5+b9tdUc9DnnQI4+YvpgtcoepkcK5QXaHVOg6PUJKq2qKaHBUgB6xnyqI2fXTWLb9H6ogh42/Z7HdIqto3Zqs6OmiAdB04t89/1O/w1cDnyilFU=';
+  var CHANNEL_ACCESS_TOKEN = 'Line api key';
   var msg = JSON.parse(e.postData.contents);
   console.log(msg);
 
