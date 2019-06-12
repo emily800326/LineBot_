@@ -3,14 +3,14 @@ Line Bot with Google apps script/openweathermap Api/yahoo movie.
 
 ## line info 
 [line line rich menu](https://manager.line.biz/)
-
-[line messageApi](https://developers.line.biz/en/reference/messaging-api/)
-
+[line message Api](https://developers.line.biz/en/reference/messaging-api/)
+[line message Api 各種訊息](https://ithelp.ithome.com.tw/articles/10198142)
+[實戰聊天機器人](https://www.oxxostudio.tw/articles/201804/line-bot-apps-script.html)
 [無痛爬梳自己來，用 Google Spreadsheet 爬取網頁資料](http://blog.infographics.tw/2016/11/google-spreadsheet-data-scraping/)
 
 
 ## init view
-
+select line rich menu or send any word.
 
 
 
@@ -18,9 +18,7 @@ Line Bot with Google apps script/openweathermap Api/yahoo movie.
 
 
 ## weather _ openweathermap api
-
-
-
+send now position info --> reply weather info.
 
 
 
@@ -28,3 +26,4 @@ Line Bot with Google apps script/openweathermap Api/yahoo movie.
 
 
 ## movie Top 10 _ Excel get xpath value from yahoo movie
+get movie top 10 info (use google spreadsheet parse-xpath the info from yahoo movie).
