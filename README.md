@@ -12,8 +12,8 @@ Line Bot with Google apps script/openweathermap Api/yahoo movie.
 
 ## init view
 select line rich menu or send any word.
-![image](https://github.com/emily800326/LineBot_/blob/master/S__44982434.jpg)
-![image](https://github.com/emily800326/LineBot_/blob/master/S__44982435.jpg)
+![image](https://github.com/emily800326/LineBot_/blob/master/S__44982434.jpg=200x100)
+![image](https://github.com/emily800326/LineBot_/blob/master/S__44982435.jpg=180x100)
 
 ## weather _ openweathermap api
 send now position info --> reply weather info.
