@@ -1,11 +1,11 @@
 # LineBot_
 Line Bot with Google apps script/openweathermap Api/yahoo movie.
 
-## line info 
-[line line rich menu](https://manager.line.biz/)
-[line message Api](https://developers.line.biz/en/reference/messaging-api/)
-[line message Api 各種訊息](https://ithelp.ithome.com.tw/articles/10198142)
-[實戰聊天機器人](https://www.oxxostudio.tw/articles/201804/line-bot-apps-script.html)
+## info 
+[line line rich menu](https://manager.line.biz/) \
+[line message Api](https://developers.line.biz/en/reference/messaging-api/) \
+[line message Api 各種訊息](https://ithelp.ithome.com.tw/articles/10198142) \
+[實戰聊天機器人](https://www.oxxostudio.tw/articles/201804/line-bot-apps-script.html) \
 [無痛爬梳自己來，用 Google Spreadsheet 爬取網頁資料](http://blog.infographics.tw/2016/11/google-spreadsheet-data-scraping/)
 
 
