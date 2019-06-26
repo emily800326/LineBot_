@@ -1,5 +1,6 @@
 # LineBot_
 Line Bot with Google apps script/openweathermap Api/yahoo movie.
+add linebot--> http://nav.cx/cnt9Bc
 
 ## info 
 [line line rich menu](https://manager.line.biz/) \
